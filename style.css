@@ -1,0 +1,21 @@
+#brincy-affiliates .padding-bottom{
+	padding-bottom: 20px;
+}
+#brincy-affiliates .shortcode_quoteby {
+  background: #ffffff !important;
+  padding: 12px;
+  margin: 0px 0px 0px 0px;
+  font-size: 13px;
+  font-style: italic;
+  line-height: 1.6em;
+}
+#brincy-affiliates .shortcode_quotebyauthor {
+  font: 12px Open Sans;
+  font-weight: 700;
+  text-shadow: none;
+  margin: 0px 0px 6px 0px;
+  padding: 4px 12px;
+  background: #f28500;
+  color: #ffffff;
+}
+#brincy-affiliates .webmastercode { width:100%;margin-top:6px; }

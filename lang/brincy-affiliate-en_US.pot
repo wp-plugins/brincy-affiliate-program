@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brincy Affiliate\n"
+"POT-Creation-Date: 2015-04-04 20:21+0800\n"
+"PO-Revision-Date: 2015-04-04 20:21+0800\n"
+"Last-Translator: damland <damturbo@yahoo.com>\n"
+"Language-Team: damland <damturbo@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: banners.php:3
+msgid "Brincy Affiliates"
+msgstr ""
+
+#: banners.php:15
+msgid "Brincy Affiliate Program"
+msgstr ""
+
+#: banners.php:18
+msgid "Shortcode Usage"
+msgstr ""
+
+#: banners.php:19
+msgid "You may add following short code to your post."
+msgstr ""
+
+#: brincy-affiliate.php:48
+msgid "Banners"
+msgstr ""
